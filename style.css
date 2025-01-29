@@ -1,0 +1,90 @@
+* {
+    font-family: "Poppins", serif;
+    margin: 0;              /*Estilos Globais, servem para fazer um reset na aplicação.*/
+    padding: 0;             /*Estilos Globais, servem para fazer um reset na aplicação.*/
+    box-sizing: border-box;
+}
+
+header{
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+.link-header{
+    width: 87px;
+    height: 20px;
+    top: 47px;
+    left: 42px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    cursor:pointer;
+    color: #17233D;
+    margin-right: 32px;
+}
+
+button{
+    border-radius: 10px;
+    width: 124px;
+    height: 51px;
+    top: 32px;
+    left: 420px;
+    border: 2px solid #4cb538;
+    background: #6FBF44;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-align: center;
+    color:#ffffff;
+    cursor: pointer;
+}
+
+.logo-image{
+    width: 595px;
+    height: 500px;
+    margin-top: 163px;
+    margin-left: 121px;
+    display: inline-block;
+}
+
+section{
+    display: inline-block;      /*para que fique na mesma linha mas que eu consiga controlar o tamnaho dela*/
+    margin-left: 85px;
+}
+
+h1{
+    width: 582px;
+    height: 164px;
+    top: 342px;
+    left: 801px;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    text-align: left;
+    color: #161A49;
+}
+
+p{
+    width: 493px;
+    height: 99px;
+    top: 553px;
+    left: 801px;
+    color: #4B505A;
+    margin-top: 47px;
+    margin-bottom: 55px;
+}
+
+.link-section{
+    cursor: pointer;
+    width: 112px;
+    height: 27px;
+    top: 707px;
+    left: 801px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #6FBF44;
+}
